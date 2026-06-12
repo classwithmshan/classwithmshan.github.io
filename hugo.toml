@@ -44,19 +44,8 @@ enableGitInfo = true
 [languages]
 [languages.en]
   label = 'English'
-  contentDir = 'content.en'
+  contentDir = 'content'
   weight = 1
-
-[languages.zh]
-  label = 'Chinese'
-  contentDir = 'content.zh'
-  weight = 2
-
-[languages.he]
-  label = 'Hebrew'
-  contentDir = 'content.he'
-  direction = 'rtl'
-  weight = 3
 
 [menu]
 [[menu.home]]
